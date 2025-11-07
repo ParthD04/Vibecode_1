@@ -1,0 +1,3 @@
+# My-first-vibecoded-website
+this is my first vibe-coded website and I'm working to improve it....
+I have created a productivity helper app with pomodoro timer, entry, task regulation
